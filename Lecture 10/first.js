@@ -72,7 +72,7 @@ console.log(arr.slice(2, 5)); // [ 1, 8, 9 ] returns an array from index 2-4
 console.log(arr); // there is no change in the original array, slice returns a new array
 
 
-splice
+// splice
 
 console.log(arr);
 // splice(starting index, total number of values you want to delete, add value)
